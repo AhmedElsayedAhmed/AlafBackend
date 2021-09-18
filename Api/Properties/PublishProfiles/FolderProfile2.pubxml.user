@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>F:\AirBag\Api\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2021-07-12T18:39:38.1417474Z;True|2021-06-13T22:51:22.4756769+02:00;True|2021-06-13T22:48:10.1781313+02:00;True|2021-05-22T19:39:45.4954171+02:00;True|2021-05-22T19:22:35.8982142+02:00;True|2021-05-20T19:13:14.6125530+02:00;True|2021-05-20T19:11:21.1946396+02:00;True|2021-05-18T19:57:06.1406509+02:00;True|2021-05-18T19:29:41.6105350+02:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AirBag.BAL.dll">
+      <publishTime>06/12/2020 03:28:27</publishTime>
+    </File>
+    <File Include="AirBag.BAL.pdb">
+      <publishTime>06/12/2020 03:28:27</publishTime>
+    </File>
+    <File Include="Api.deps.json">
+      <publishTime>06/13/2020 01:00:59</publishTime>
+    </File>
+    <File Include="Api.dll">
+      <publishTime>06/13/2020 00:55:52</publishTime>
+    </File>
+    <File Include="Api.exe">
+      <publishTime>06/13/2020 00:55:52</publishTime>
+    </File>
+    <File Include="Api.pdb">
+      <publishTime>06/13/2020 00:55:52</publishTime>
+    </File>
+    <File Include="Api.runtimeconfig.json">
+      <publishTime>04/27/2020 03:52:25</publishTime>
+    </File>
+    <File Include="appsettings.Development.json">
+      <publishTime>12/26/2019 00:01:12</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>06/12/2020 19:47:46</publishTime>
+    </File>
+    <File Include="AutoMapper.dll">
+      <publishTime>08/12/2019 12:42:04</publishTime>
+    </File>
+    <File Include="AutoMapper.Extensions.Microsoft.DependencyInjection.dll">
+      <publishTime>08/12/2019 13:19:42</publishTime>
+    </File>
+    <File Include="BouncyCastle.Crypto.dll">
+      <publishTime>03/29/2020 23:08:14</publishTime>
+    </File>
+    <File Include="Castle.Core.dll">
+      <publishTime>04/05/2019 01:50:28</publishTime>
+    </File>
+    <File Include="Common.BAL.dll">
+      <publishTime>06/12/2020 03:17:07</publishTime>
+    </File>
+    <File Include="Common.BAL.pdb">
+      <publishTime>06/12/2020 03:17:07</publishTime>
+    </File>
+    <File Include="CorePush.dll">
+      <publishTime>04/03/2020 17:30:22</publishTime>
+    </File>
+    <File Include="dotnet-aspnet-codegenerator-design.dll">
+      <publishTime>09/24/2019 19:57:52</publishTime>
+    </File>
+    <File Include="Entities.dll">
+      <publishTime>06/11/2020 06:46:49</publishTime>
+    </File>
+    <File Include="Entities.pdb">
+      <publishTime>06/11/2020 06:46:49</publishTime>
+    </File>
+    <File Include="FizzWare.NBuilder.dll">
+      <publishTime>08/23/2019 21:23:52</publishTime>
+    </File>
+    <File Include="Framework.dll">
+      <publishTime>06/11/2020 06:46:50</publishTime>
+    </File>
+    <File Include="Framework.exe">
+      <publishTime>06/11/2020 06:46:50</publishTime>
+    </File>
+    <File Include="Framework.pdb">
+      <publishTime>06/11/2020 06:46:50</publishTime>
+    </File>
+    <File Include="MailKit.dll">
+      <publishTime>11/10/2019 17:00:52</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Authentication.JwtBearer.dll">
+      <publishTime>11/16/2019 11:23:50</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.JsonPatch.dll">
+      <publishTime>11/16/2019 11:17:28</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll">
+      <publishTime>11/16/2019 11:25:44</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.NodeServices.dll">
+      <publishTime>12/16/2019 02:11:44</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Razor.Language.dll">
+      <publishTime>06/07/2018 00:26:56</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.SpaServices.dll">
+      <publishTime>12/16/2019 02:18:38</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.SpaServices.Extensions.dll">
+      <publishTime>12/16/2019 02:20:00</publishTime>
+    </File>
+    <File Include="Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>11/15/2019 08:38:02</publishTime>
+    </File>
+    <File Include="Microsoft.Bcl.HashCode.dll">
+      <publishTime>11/15/2019 08:38:50</publishTime>
+    </File>
+    <File Include="Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>04/30/2018 16:29:02</publishTime>
+    </File>
+    <File Include="Microsoft.CodeAnalysis.CSharp.Workspaces.dll">
+      <publishTime>04/30/2018 16:29:02</publishTime>
+    </File>
+    <File Include="Microsoft.CodeAnalysis.dll">
+      <publishTime>04/30/2018 16:29:02</publishTime>
+    </File>
+    <File Include="Microsoft.CodeAnalysis.Workspaces.dll">
+      <publishTime>04/30/2018 16:29:04</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.dll">
+      <publishTime>09/26/2019 20:43:28</publishTime>
+    </File>
+    <File Include="Microsoft.DotNet.PlatformAbstractions.dll">
+      <publishTime>07/20/2017 16:26:22</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>01/01/1980 00:00:00</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>01/01/1980 00:00:00</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Proxies.dll">
+      <publishTime>01/01/1980 00:00:00</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.dll">
+      <publishTime>01/01/1980 00:00:00</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.SqlServer.dll">
+      <publishTime>01/01/1980 00:00:00</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.Abstractions.dll">
+      <publishTime>12/14/2019 18:39:06</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.Binder.dll">
+      <publishTime>12/14/2019 18:39:30</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.dll">
+      <publishTime>12/14/2019 18:39:16</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <publishTime>12/14/2019 18:39:34</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.dll">
+      <publishTime>12/14/2019 18:39:12</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyModel.dll">
+      <publishTime>07/21/2017 12:08:58</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.FileProviders.Abstractions.dll">
+      <publishTime>12/14/2019 18:39:58</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.FileProviders.Physical.dll">
+      <publishTime>12/14/2019 18:39:34</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.FileSystemGlobbing.dll">
+      <publishTime>12/14/2019 18:40:30</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Logging.Abstractions.dll">
+      <publishTime>12/14/2019 18:40:42</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Logging.Configuration.dll">
+      <publishTime>12/14/2019 18:41:54</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Logging.Console.dll">
+      <publishTime>12/14/2019 18:42:54</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Logging.dll">
+      <publishTime>12/14/2019 18:41:36</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Options.ConfigurationExtensions.dll">
+      <publishTime>12/14/2019 18:41:56</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Options.dll">
+      <publishTime>12/14/2019 18:39:06</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Primitives.dll">
+      <publishTime>12/14/2019 18:39:56</publishTime>
+    </File>
+    <File Include="Microsoft.Identity.Client.dll">
+      <publishTime>04/29/2019 22:04:14</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>06/24/2019 19:50:38</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>06/24/2019 19:53:26</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>06/24/2019 19:54:24</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>06/24/2019 19:59:32</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>06/24/2019 19:56:06</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>10/24/2018 18:48:08</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll">
+      <publishTime>09/24/2019 19:57:20</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Core.dll">
+      <publishTime>09/24/2019 19:57:24</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.dll">
+      <publishTime>09/24/2019 19:57:28</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll">
+      <publishTime>09/24/2019 19:57:26</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll">
+      <publishTime>09/24/2019 19:57:22</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll">
+      <publishTime>09/24/2019 19:57:20</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll">
+      <publishTime>09/24/2019 19:57:30</publishTime>
+    </File>
+    <File Include="MimeKit.dll">
+      <publishTime>11/10/2019 16:48:02</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.Bson.dll">
+      <publishTime>11/27/2018 23:10:18</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>11/09/2019 00:56:44</publishTime>
+    </File>
+    <File Include="NotificationManagement.dll">
+      <publishTime>06/11/2020 06:46:53</publishTime>
+    </File>
+    <File Include="NotificationManagement.pdb">
+      <publishTime>06/11/2020 06:46:53</publishTime>
+    </File>
+    <File Include="NuGet.Frameworks.dll">
+      <publishTime>04/24/2018 21:27:10</publishTime>
+    </File>
+    <File Include="Persistence.dll">
+      <publishTime>06/11/2020 06:46:53</publishTime>
+    </File>
+    <File Include="Persistence.pdb">
+      <publishTime>06/11/2020 06:46:53</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll">
+      <publishTime>05/15/2018 13:29:40</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll">
+      <publishTime>09/26/2019 20:43:26</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/sni.dll">
+      <publishTime>07/12/2017 11:24:24</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/sni.dll">
+      <publishTime>07/12/2017 11:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/sni.dll">
+      <publishTime>07/12/2017 11:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll">
+      <publishTime>05/15/2018 13:29:40</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll">
+      <publishTime>09/26/2019 20:43:26</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>05/15/2018 13:29:44</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>09/30/2019 12:27:42</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>09/30/2019 12:27:50</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>09/30/2019 12:27:44</publishTime>
+    </File>
+    <File Include="System.Composition.AttributedModel.dll">
+      <publishTime>11/05/2016 04:55:42</publishTime>
+    </File>
+    <File Include="System.Composition.Convention.dll">
+      <publishTime>11/05/2016 04:55:42</publishTime>
+    </File>
+    <File Include="System.Composition.Hosting.dll">
+      <publishTime>11/05/2016 04:55:42</publishTime>
+    </File>
+    <File Include="System.Composition.Runtime.dll">
+      <publishTime>11/05/2016 04:55:44</publishTime>
+    </File>
+    <File Include="System.Composition.TypedParts.dll">
+      <publishTime>11/05/2016 04:55:46</publishTime>
+    </File>
+    <File Include="System.Configuration.ConfigurationManager.dll">
+      <publishTime>05/15/2018 13:29:38</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>06/24/2019 19:49:50</publishTime>
+    </File>
+    <File Include="System.Runtime.Caching.dll">
+      <publishTime>05/15/2018 13:29:40</publishTime>
+    </File>
+    <File Include="System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>05/15/2018 13:29:44</publishTime>
+    </File>
+    <File Include="Twilio.dll">
+      <publishTime>03/04/2020 21:58:14</publishTime>
+    </File>
+    <File Include="User.BAL.dll">
+      <publishTime>06/13/2020 00:55:42</publishTime>
+    </File>
+    <File Include="User.BAL.pdb">
+      <publishTime>06/13/2020 00:55:42</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>06/13/2020 01:00:59</publishTime>
+    </File>
+    <File Include="wwwroot/Files/%241.JPG%24f3105a3a-b5e8-42d7-abba-2536c4f2d5a9.JPG">
+      <publishTime>06/11/2020 00:15:52</publishTime>
+    </File>
+    <File Include="wwwroot/Files/%2410959646_798452026858297_7639346128038701981_n.jpg%24f64e4bc5-f913-460b-932d-4f35eeb1b43f.jpg">
+      <publishTime>05/29/2020 13:33:30</publishTime>
+    </File>
+    <File Include="wwwroot/Files/%242.JPG%242f05cbfd-d372-43bb-8f52-292ee8e12a5f.JPG">
+      <publishTime>06/12/2020 02:16:17</publishTime>
+    </File>
+    <File Include="wwwroot/Files/%242.JPG%2496ac0e8e-b787-44f9-aa92-f459d38ea064.JPG">
+      <publishTime>04/27/2020 03:03:51</publishTime>
+    </File>
+    <File Include="wwwroot/Files/%243.JPG%2497702b5b-fe1c-4cfa-ad4b-130f0e410042.JPG">
+      <publishTime>06/11/2020 00:19:41</publishTime>
+    </File>
+    <File Include="wwwroot/Files/%243.JPG%24e6662bb5-0614-4d19-9acc-78599e19caab.JPG">
+      <publishTime>04/09/2020 03:55:51</publishTime>
+    </File>
+    <File Include="wwwroot/Files/%245.JPG%24442a7652-82e7-475e-85c2-79cd09fc18e4.JPG">
+      <publishTime>03/27/2020 01:18:31</publishTime>
+    </File>
+    <File Include="wwwroot/Files/%2492570136_1353433288180344_8576308189778149376_n.jpg%245ba54dcb-a1e8-4807-a39f-ac257dac7d48.jpg">
+      <publishTime>06/12/2020 03:12:31</publishTime>
+    </File>
+    <File Include="wwwroot/Files/%2492570136_1353433288180344_8576308189778149376_n.jpg%24ffad30b1-ef18-4074-a07b-0873ef0b8acc.jpg">
+      <publishTime>06/12/2020 03:14:27</publishTime>
+    </File>
+    <File Include="wwwroot/Files/%2492675920_667038787378010_8479430495132712960_n.jpg%2490892440-9ca3-465b-a1ab-554e028402da.jpg">
+      <publishTime>06/12/2020 01:18:53</publishTime>
+    </File>
+    <File Include="wwwroot/Files/%2492675920_667038787378010_8479430495132712960_n.jpg%249b779f10-71cb-45a3-881b-3e01fa474be1.jpg">
+      <publishTime>06/12/2020 01:18:29</publishTime>
+    </File>
+    <File Include="wwwroot/Files/%2492675920_667038787378010_8479430495132712960_n.jpg%249ff5852c-d373-4248-a0f7-de570dfe4ef8.jpg">
+      <publishTime>06/12/2020 01:27:00</publishTime>
+    </File>
+    <File Include="wwwroot/Files/%2492675920_667038787378010_8479430495132712960_n.jpg%24c61d9915-9c33-4f3b-89df-a8678ca75180.jpg">
+      <publishTime>05/29/2020 14:24:28</publishTime>
+    </File>
+    <File Include="wwwroot/Files/%2492699645_662125747922666_3837600837148868608_n.jpg%2404f7323c-dbc2-4981-8d4b-63569d0280c5.jpg">
+      <publishTime>05/29/2020 14:16:28</publishTime>
+    </File>
+    <File Include="wwwroot/Files/%2492699645_662125747922666_3837600837148868608_n.jpg%24697f841a-ac56-4950-b21d-49b92a337f43.jpg">
+      <publishTime>06/12/2020 03:32:26</publishTime>
+    </File>
+    <File Include="wwwroot/Files/%2492699645_662125747922666_3837600837148868608_n.jpg%24a8b79544-b549-451f-b511-f8374ad6aea4.jpg">
+      <publishTime>06/12/2020 03:32:43</publishTime>
+    </File>
+    <File Include="wwwroot/Files/%24bag.JPG%2433802c79-8b61-47f3-981b-6d20b0d49cf4.JPG">
+      <publishTime>06/10/2020 14:19:08</publishTime>
+    </File>
+    <File Include="wwwroot/Files/%24bag.JPG%249e79f536-b9f4-4283-8d7c-fd35084507d9.JPG">
+      <publishTime>06/12/2020 03:19:56</publishTime>
+    </File>
+    <File Include="wwwroot/Files/%24bag.JPG%24df75671f-9d31-40b3-94e6-b70521886c24.JPG">
+      <publishTime>06/11/2020 00:14:49</publishTime>
+    </File>
+    <File Include="wwwroot/Files/%24Capture.JPG%24621f9ec5-d808-4290-8d66-4f3867d5c3a6.JPG">
+      <publishTime>06/10/2020 14:18:19</publishTime>
+    </File>
+    <File Include="wwwroot/Files/%24tr.JPG%24017c3868-b34a-4fae-a852-c879ee13918b.JPG">
+      <publishTime>06/11/2020 15:32:56</publishTime>
+    </File>
+    <File Include="wwwroot/Files/%24tr.JPG%2411870da6-67da-42ef-9b92-c3e5fd333cce.JPG">
+      <publishTime>06/12/2020 03:16:47</publishTime>
+    </File>
+    <File Include="wwwroot/Files/%24tr.JPG%243cd0e2ff-bfd9-45c4-af54-f8ce97330768.JPG">
+      <publishTime>06/12/2020 02:15:41</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
